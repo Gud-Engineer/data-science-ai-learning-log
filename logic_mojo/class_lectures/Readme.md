@@ -1,0 +1,2 @@
+# LogicMojo Class Notes
+
